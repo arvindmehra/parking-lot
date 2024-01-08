@@ -2,7 +2,7 @@
 
 This is an object-oriented implementation of Parking Lot in Ruby.
 
-The parking lot will allow different types of vehicles to be parked:
+The parking lot will allow different types of vehicles to be parked across multiple buildings with multiple floors.
 
 -  Motorcycles/Scooters
 
